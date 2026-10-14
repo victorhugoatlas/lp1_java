@@ -17,7 +17,6 @@ public class InspecaoEsteira {
                 }
             }
         }
-
         scanner.close();
     }
 }

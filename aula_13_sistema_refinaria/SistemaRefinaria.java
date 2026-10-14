@@ -1,4 +1,3 @@
-package aula_13_sistema_refinaria;
 import java.util.Scanner;
 
 public class SistemaRefinaria {
