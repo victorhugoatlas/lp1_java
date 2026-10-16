@@ -1,5 +1,3 @@
-package aula_17_nobreak;
-
 public import java.util.Scanner;
 
 public class Main {
@@ -38,6 +36,5 @@ public class Main {
 
         scanner.close();
     }
-} {
-    
+} {   
 }

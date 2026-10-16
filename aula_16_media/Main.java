@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String[] nomes = {"ABEL", "ANA", "BEATRIZ", "CARLA", "CARLOS", "DANIEL", "ESTHER"};
+        String[] nomes = {"HEMILLY", "FRANCINNE", "THAYNNARA", "CARLIANE", "EVELYN", "BIANKA", "ESTHER"};
         double[][] notas = {
             {8.2, 7.2, 6.3},
             {7.1, 6.0, 8.4},
