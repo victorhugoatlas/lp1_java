@@ -1,0 +1,21 @@
+# Compilados do Java
+*.class
+
+# Pastas de IDEs (BlueJ, VS Code, IntelliJ, Eclipse)
+*.bluej
+*.ctxt
+.bluej/
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Pastas de build/saída temporárias
+bin/
+build/
+
+# Ficheiros do Sistema Operativo
+Thumbs.db
+.DS_Store
