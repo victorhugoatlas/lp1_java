@@ -1,7 +1,7 @@
 # Compilados do Java
 *.class
 
-# Pastas de IDEs (BlueJ, VS Code, IntelliJ, Eclipse)
+# Pastas de IDEs
 *.bluej
 *.ctxt
 .bluej/
@@ -12,7 +12,7 @@
 .project
 .classpath
 
-# Pastas de build/saída temporárias
+# Pastas de build e saída temporárias
 bin/
 build/
 
